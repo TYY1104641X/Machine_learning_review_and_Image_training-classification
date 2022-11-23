@@ -12,4 +12,4 @@ Note that most of the codes are based on shared resources. Please visit links in
 
 
 The informal lecture notes consist of most of the supervised and unsupervised machine learning algorithms, including learning regression, logistic regression, 
-SVM, GDA, KNN Decision tree, K-means, NN, and CNN.
+SVM, GDA, K-NN, Decision tree, NN, CNN, K-means, and PCA.
