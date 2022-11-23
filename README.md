@@ -4,9 +4,9 @@
 
 Review notes of machine learning algorithms
 
-I state that the review lecture notes are shared online.
-The lecuture notes (with some screen shots) are summarized from multiple resources listed in corresponding files. 
-Please feel free to let me delete the corresponding files if they infringe your copyrights.
+I state that the review lecture notes are shared as online learning sources.
+The lecture notes (with some screenshots) are summarized from multiple resources listed in corresponding files. 
+Please feel free to let me delete the corresponding files if they infringe on your copyright.
 
 Note that most of the codes are revised based on my course projects or shared resources. Please visit links in the corresponding files to look for source codes.
 
