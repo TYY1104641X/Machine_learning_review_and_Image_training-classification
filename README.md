@@ -1,6 +1,6 @@
 # machine_learning_notes  
-@ Yuanyuan Tang
 
+@ Yuanyuan Tang (main duration: Sep. 2020-Jun. 2021)
 
 Review notes of machine learning algorithms
 
