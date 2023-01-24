@@ -13,3 +13,5 @@ Note that most of the codes are revised based on my course projects or shared re
 
 The informal lecture notes consist of most of the supervised and unsupervised machine learning algorithms, including learning regression, logistic regression, 
 SVM, GDA, K-NN, Decision tree, NN, CNN, K-means, and PCA.
+
+Learn to training and classify images from Fashion Minist.
