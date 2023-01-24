@@ -1,8 +1,8 @@
 # machine_learning_notes  
 
-@ Yuanyuan Tang (main duration: Sep. 2020-Jun. 2021)
+@ Yuanyuan Tang 
 
-Review notes of machine learning algorithms
+Review notes of machine learning algorithms (main learning duration: Sep. 2020-Jun. 2021)
 
 I state that the review lecture notes are shared as online learning sources.
 The lecture notes (with some screenshots) are summarized from multiple resources listed in corresponding files. 
